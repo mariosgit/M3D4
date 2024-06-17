@@ -6,9 +6,24 @@ Majo's Mega Mixer Digital 4 devices. Simple.
 
 Empty Repo...
 
-# Whats this
+# What's this
 
-It's new
+Just another mixer thing.
+
+# Cost
+
+| part | euro | ... | # | sum |
+|---|---|---|---|---|
+| C108 | 2 | | 4 | 8
+| SRC4392IPFBR | 13,42  | ~~dual~~ SRC | 2 | ~~27~~ |
+| ADAU1701 | 8,47 | DSP | 1 | 9 |
+| sum | | | | **44** |
+
+# Refs
+
+CM108 symbol https://github.com/islandcontroller/fiberaudio-108
+
+
 
 # License
 

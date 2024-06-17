@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "M3D4")(type "KiCad")(uri "${KIPRJMOD}/M3D4.pretty")(options "")(descr ""))
+)

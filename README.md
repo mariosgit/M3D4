@@ -4,7 +4,7 @@ Majo's Mega Mixer Digital 4 devices. Simple.
 
 # Status
 
-Empty Repo...
+Miniboard to test with FreeDSP. @alpha, not tested.
 
 # What's this
 
@@ -15,9 +15,9 @@ Just another mixer thing.
 | part | euro | ... | # | sum |
 |---|---|---|---|---|
 | C108 | 2 | | 4 | 8
-| SRC4392IPFBR | 13,42  | ~~dual~~ SRC | 2 | ~~27~~ |
+| SRC419x | 6,42  | SRC | 8 | 52 |
 | ADAU1701 | 8,47 | DSP | 1 | 9 |
-| sum | | | | **44** |
+| sum | | | | **69** |
 
 # Refs
 
